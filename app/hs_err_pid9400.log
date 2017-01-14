@@ -1,0 +1,104 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 2320 bytes for AllocateHeap
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   In 32 bit mode, the process size limit was hit
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Use 64 bit Java on a 64 bit OS
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (memory/allocation.inline.hpp:61), pid=9400, tid=0x00000000000013c0
+#
+# JRE version:  ((uninitialized)) (build )
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.101-b13 mixed mode, sharing windows-amd64 )
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread is native thread
+
+Stack: [0x0000000000140000,0x0000000000240000]
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+
+
+---------------  P R O C E S S  ---------------
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+
+Dynamic libraries:
+0x00007ff670340000 - 0x00007ff670377000 	C:\Program Files\Java\jdk1.8.0_101\bin\java.exe
+0x00007ffc46ec0000 - 0x00007ffc4706d000 	C:\Windows\SYSTEM32\ntdll.dll
+0x00007ffc44540000 - 0x00007ffc4467e000 	C:\Windows\system32\KERNEL32.DLL
+0x00007ffc441e0000 - 0x00007ffc442f5000 	C:\Windows\system32\KERNELBASE.dll
+0x00007ffc42c70000 - 0x00007ffc42cfe000 	C:\Windows\system32\apphelp.dll
+0x00007ffc3a7d0000 - 0x00007ffc3a823000 	C:\Windows\AppPatch\AppPatch64\AcGenral.DLL
+0x00007ffc44730000 - 0x00007ffc447da000 	C:\Windows\system32\msvcrt.dll
+0x00007ffc441b0000 - 0x00007ffc441de000 	C:\Windows\system32\SspiCli.dll
+0x00007ffc468f0000 - 0x00007ffc46944000 	C:\Windows\system32\SHLWAPI.dll
+0x00007ffc44b60000 - 0x00007ffc44cd7000 	C:\Windows\system32\USER32.dll
+0x00007ffc46a10000 - 0x00007ffc46ba4000 	C:\Windows\system32\ole32.dll
+0x00007ffc450c0000 - 0x00007ffc465e8000 	C:\Windows\system32\SHELL32.dll
+0x00007ffc43610000 - 0x00007ffc43631000 	C:\Windows\SYSTEM32\USERENV.dll
+0x00007ffc44680000 - 0x00007ffc4472a000 	C:\Windows\system32\ADVAPI32.dll
+0x00007ffc3b470000 - 0x00007ffc3b48e000 	C:\Windows\SYSTEM32\MPR.dll
+0x00007ffc46750000 - 0x00007ffc46890000 	C:\Windows\system32\RPCRT4.dll
+0x00007ffc46d90000 - 0x00007ffc46de9000 	C:\Windows\SYSTEM32\sechost.dll
+0x00007ffc44cf0000 - 0x00007ffc44f01000 	C:\Windows\SYSTEM32\combase.dll
+0x00007ffc44f10000 - 0x00007ffc4505f000 	C:\Windows\system32\GDI32.dll
+0x00007ffc43fe0000 - 0x00007ffc43ff5000 	C:\Windows\SYSTEM32\profapi.dll
+0x00007ffc42620000 - 0x00007ffc426d2000 	C:\Windows\SYSTEM32\SHCORE.dll
+0x00007ffc46e10000 - 0x00007ffc46e46000 	C:\Windows\system32\IMM32.DLL
+0x00007ffc465f0000 - 0x00007ffc46742000 	C:\Windows\system32\MSCTF.dll
+0x00007ffc421a0000 - 0x00007ffc4241b000 	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.9600.18006_none_623f33d3ecbe86e8\COMCTL32.dll
+0x0000000073360000 - 0x0000000073432000 	C:\Program Files\Java\jdk1.8.0_101\jre\bin\msvcr100.dll
+0x0000000073770000 - 0x000000007400a000 	C:\Program Files\Java\jdk1.8.0_101\jre\bin\server\jvm.dll
+0x00007ffc420a0000 - 0x00007ffc420a9000 	C:\Windows\SYSTEM32\WSOCK32.dll
+0x00007ffc41940000 - 0x00007ffc41962000 	C:\Windows\SYSTEM32\WINMM.dll
+0x00007ffc41f20000 - 0x00007ffc41f2a000 	C:\Windows\SYSTEM32\VERSION.dll
+0x00007ffc44a90000 - 0x00007ffc44a97000 	C:\Windows\system32\PSAPI.DLL
+0x00007ffc46890000 - 0x00007ffc468ea000 	C:\Windows\system32\WS2_32.dll
+0x00007ffc417f0000 - 0x00007ffc4181a000 	C:\Windows\SYSTEM32\WINMMBASE.dll
+0x00007ffc44ce0000 - 0x00007ffc44ce9000 	C:\Windows\system32\NSI.dll
+0x00007ffc440b0000 - 0x00007ffc440ff000 	C:\Windows\SYSTEM32\cfgmgr32.dll
+0x00007ffc42ec0000 - 0x00007ffc42ee8000 	C:\Windows\SYSTEM32\DEVOBJ.dll
+
+VM Arguments:
+java_command: <unknown>
+java_class_path (initial): <not set>
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=C:\Program Files\Java\jdk1.8.0_101
+CLASSPATH=C:\Program Files\Java\javamail-1.4.7\mail.jar;
+PATH=C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Skype\Phone\;D:\Program Files\New Folder\;D:\Program Files\mat\runtime\win64;D:\Program Files\mat\bin;D:\Program Files\mat\polyspace\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;D:\Program Files\doxygen\bin;C:\Users\Brom\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\Brom\AppData\Local\Programs\Python\Python35-32\
+USERNAME=Brom
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 8.1 , 64 bit Build 9600 (6.3.9600.17415)
+
+CPU:total 8 
+
+Memory: 4k page, physical 8199448k(1218640k free), swap 11345176k(17916k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (25.101-b13) for windows-amd64 JRE (1.8.0_101-b13), built on Jun 22 2016 01:21:29 by "java_re" with MS VC++ 10.0 (VS2010)
+
+time: Sat Jan 07 03:01:03 2017
+elapsed time: 0 seconds (0d 0h 0m 0s)
+
