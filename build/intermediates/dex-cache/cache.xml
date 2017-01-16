@@ -75,7 +75,7 @@
         jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="64922eaf91a3d9b1190b8c12933d0c9847f7cb8d">
+        sha1="21e57bb02ed436baf61fb37171f8d2942b0da2fd">
         <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7d11eac98eedd8a892523319b29f76a89f629f28.jar" />
     </item>
     <item
@@ -124,7 +124,7 @@
         jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="a393457467fc751ecddc27d4b5655a733e01c5f0">
+        sha1="84ce7fdeff2c89142223c6d32d1ba19c165b38ee">
         <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\instant-run_7ba6cc563b7a20fb1235153faa648f1dae15f76a.jar" />
     </item>
     <item

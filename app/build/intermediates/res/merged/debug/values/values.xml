@@ -300,7 +300,7 @@
     <integer name="design_snackbar_text_max_lines">2</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="ApimKey">Ocp-Apim-Subscription-Key</string>
-    <string name="ApimKey_value">e3bca3efb73248cba36b0f6cbca1e17f</string>
+    <string name="ApimKey_value">9ed680fd31f948a685b8e180b8659b26</string>
     <string name="ContentType">Content-Type</string>
     <string name="ContentType_value">application/json</string>
     <string name="Fruit">fruit</string>

@@ -22,7 +22,7 @@
     <string name="language">language</string>
     <string name="language_value">en</string>
     <string name="ApimKey">Ocp-Apim-Subscription-Key</string>
-    <string name="ApimKey_value">   </string>
+    <string name="ApimKey_value"></string>
 
 
     <string name="Fruit">fruit</string>

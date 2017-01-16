@@ -136,20 +136,20 @@
         "source": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\build\\intermediates\\exploded-aar\\com.vk\\androidsdk\\1.6.8\\res\\layout\\vk_captcha_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vk_open_auth_dialog.xml",
-        "source": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\build\\intermediates\\exploded-aar\\com.vk\\androidsdk\\1.6.8\\res\\layout\\vk_open_auth_dialog.xml"
-    },
-    {
         "merged": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vk_open_auth_dialog.xml",
+        "source": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\build\\intermediates\\exploded-aar\\com.vk\\androidsdk\\1.6.8\\res\\layout\\vk_open_auth_dialog.xml"
     },
     {
         "merged": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "C:\\Users\\Brom\\.AndroidStudio2.1\\APIvk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
