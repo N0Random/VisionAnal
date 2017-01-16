@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Brom\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_894345fef2b6a3e4441473fb3c1ccf93da9348e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_169bee7ec0c582e7d3799e9d6c4adf4cfac2799a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_f4a8c50b8b123d0ec1db193d61f023c04c1f7bf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_893ce51459a5791960b2d59b8f9d521da2ef0a89.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_bb0d2662e09a6e27c70eccf3cb5a7d174295a7c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_3dcbb624b2cee980f532709b5425e23ff485eee5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_077641b320a4990a00814c3c6eab83bc5e50be56.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_7fc6f5b7453b12ac8b2fd5c99fbdcda430f75cd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta1\53b5be42d6cf719ac1431b9aa9a4d5ab78856148\retrofit-2.0.0-beta1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="53b5be42d6cf719ac1431b9aa9a4d5ab78856148">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta1_809fcdc872673066160fab637cf0ee44a9a23a3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_6fff9f069711e754b89e4b6da75196dfeaeea8bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="64922eaf91a3d9b1190b8c12933d0c9847f7cb8d">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7d11eac98eedd8a892523319b29f76a89f629f28.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_3d2a0a118f8bc80f9689701ef6b6af7cdf1b67d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_f2eaa98a9fa6b3717ccb8e06fe4158ac84e5fa03.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_cd1e7b7d71f817303fd015c575c05a2e850ecd02.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\gson-2.8.0_95996406d78ca48c1f62690893794c80286b8b40.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_1626e5770feb0f4dd6734e4c08ecabf9f5596f9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_45e3175d0f18b255ded686b3738aa2827e950e7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a393457467fc751ecddc27d4b5655a733e01c5f0">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\instant-run_7ba6cc563b7a20fb1235153faa648f1dae15f76a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_155a38bcb5b28a6d60a61c3c9a82f78457483072.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\exploded-aar\com.vk\androidsdk\1.6.8\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="80b9d5a666fc468b2eced7e724ca6e422c71f2b9">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\com.vk-androidsdk-1.6.8_0b317d18cb1fcdc7137f5a799308c3a71122bae9.jar" />
+    </item>
+    <item
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_ebcf359916918fd83f76531dc6107b5382dd8f81.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_aa8c78294055051acf68e23049229251b45a577f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brom\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Brom\.AndroidStudio2.1\APIvk\app\build\intermediates\pre-dexed\debug\okio-1.8.0_2dd0c7c5520856143bec9f0f32486d830fd5848e.jar" />
+    </item>
+
+</items>
